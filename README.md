@@ -258,8 +258,8 @@ more...
 
 ## 🔗 Related Repositories
 
-* **Backend (FastAPI)** → [`/insightboard-ai-frontend`](https://github.com/kamleah/insightboard-ai-frontend)
-* **Frontend (Next.js)** → `this folder`
+* **Backend (FastAPI)** → `this folder`
+* **Frontend (Next.js)** → [`/insightboard-ai-frontend`](https://github.com/kamleah/insightboard-ai-frontend)
 
 ---
 

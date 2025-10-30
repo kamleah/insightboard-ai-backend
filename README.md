@@ -256,10 +256,15 @@ more...
 
 ---
 
-## 🧩 License
+## 🔗 Related Repositories
 
-This project is licensed under the **MIT License**.
+* **Backend (FastAPI)** → [`/insightboard-ai-frontend`](https://github.com/kamleah/insightboard-ai-frontend)
+* **Frontend (Next.js)** → `this folder`
 
 ---
 
-Would you like me to now combine this **backend README** with your **frontend README** into a single full-stack `README.md` for the project root (so users can run both sides easily)?
+## 👨‍💻 Contributors
+
+| Name      | Role                 |
+| --------- | -------------------- |
+| Kamlesh Gupta | Full Stack Developer |

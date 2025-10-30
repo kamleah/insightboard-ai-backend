@@ -78,7 +78,6 @@ def generate_action_items(request: Request, transcript: str) -> List[ActionItem]
 
         response = model.generate_content(full_prompt)
         content = response.text.strip()
-        print("Raw AI Response:", content)
 
         # Extract JSON from Gemini output
         json_match = re.search(r'\[.*\]', content, re.DOTALL)

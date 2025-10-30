@@ -15,7 +15,7 @@ async def root_v2():
 
 @router.get("/health")
 async def health_check_v2():
-    """ Health check for v2 """
+    """Health check for v2"""
     return {
         "status": "healthy",
         "version": "v2",
